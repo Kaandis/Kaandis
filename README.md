@@ -16,8 +16,8 @@ I started my software journey with **C** and **Cyber Security** foundations. Cur
 ---
 
 <div align="center">
-  <h3>Merhaba, ben Oğuz Kaan Kandiş 👋</h3>
-  <h4>Bilgisayar Mühendisliği @ Gebze Teknik Üniversitesi</h4>
+  <h1>Merhaba, ben Oğuz Kaan Kandiş 👋</h1>
+  <h3>Bilgisayar Mühendisliği @ Gebze Teknik Üniversitesi</h3>
   <p>
     <i>iOS Geliştirici Adayı | Deneyap Mezunu | Teknofest Yarışmacısı</i>
   </p>
