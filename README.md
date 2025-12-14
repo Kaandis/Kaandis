@@ -26,6 +26,8 @@ Yazılım dünyasına **C** ve **Siber Güvenlik** temelleriyle giriş yaptım, 
 ---
 
 <div align="center">
-  📫 <b>İletişim:</b> <a href="[LINKEDIN_PROFIL_LINKIN](https://www.linkedin.com/in/oğuz-kaan-kandiş-045943380/)">LinkedIn</a>
-<b>Mail: kaandis@hotmail.com</b>
+  📫 <b>İletişim:</b> 
+  <a href="https://www.linkedin.com/in/oğuz-kaan-kandiş-045943380/">LinkedIn</a> 
+  • 
+  <a href="mailto:kaandis@hotmail.com">kaandis@hotmail.com</a>
 </div>
