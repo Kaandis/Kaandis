@@ -1,4 +1,5 @@
 <div align="center">
+  ——— 🌍 English ———
   <h1>Hi, I'm Oğuz Kaan Kandiş 👋</h1>
   <h3>Computer Engineering Student @ Gebze Technical University</h3>
   <p>
@@ -13,9 +14,10 @@ I started my software journey with **Arduino, C** and **Cyber Security** foundat
 * 🚩 **Leadership:** Served as **Team Captain** in Teknofest and Deneyap projects; managed team coordination and project management processes.
 * 🔭 **Current Focus:** Working on iOS software and user experience.
 
----
+<br>
 
 <div align="center">
+  ——— 🇹🇷 Türkçe ———
   <h1>Merhaba, ben Oğuz Kaan Kandiş 👋</h1>
   <h3>Bilgisayar Mühendisliği @ Gebze Teknik Üniversitesi</h3>
   <p>
