@@ -7,11 +7,11 @@
 </div>
 
 ### 🚀 About Me
-I started my software journey with **C** and **Cyber Security** foundations. Currently, I am focusing on developing modern applications in the iOS ecosystem using **Swift & UIKit**. I enjoy writing clean code, understanding system depths, and producing projects with a competitive team spirit.
+I started my software journey with **Arduino, C** and **Cyber Security** foundations. Currently, I am educating myself to develop modern applications in the iOS ecosystem using **Swift & UIKit** technologies. I enjoy writing clean code, understanding system depths, and producing projects with a competitive team spirit.
 
 * 🏆 **Achievement:** Deneyap Technology Workshops Graduate & Project Winner.
 * 🚩 **Leadership:** Served as **Team Captain** in Teknofest and Deneyap projects; managed team coordination and project management processes.
-* 🔭 **Current Focus:** Advanced iOS architectures and user experience (UX).
+* 🔭 **Current Focus:** Working on iOS software and user experience.
 
 ---
 
@@ -24,11 +24,11 @@ I started my software journey with **C** and **Cyber Security** foundations. Cur
 </div>
 
 ### 🚀 Hakkımda
-Yazılım dünyasına **C** ve **Siber Güvenlik** temelleriyle giriş yaptım, şu anda **Swift & UIKit** teknolojileriyle iOS ekosisteminde modern uygulamalar geliştirmek için kendimi eğitiyorum. Temiz kod yazmayı, sistemin derinliklerini anlamayı ve yarışma kültürüyle proje üretmeyi seviyorum.
+Yazılım dünyasına **Arduino, C** ve **Siber Güvenlik** temelleriyle giriş yaptım, şu anda **Swift & UIKit** teknolojileriyle iOS ekosisteminde modern uygulamalar geliştirmek için kendimi eğitiyorum. Temiz kod yazmayı, sistemin derinliklerini anlamayı ve yarışma kültürüyle proje üretmeyi seviyorum.
 
 * 🏆 **Başarı:** Deneyap Teknoloji Atölyeleri Mezunu & Proje Birinciliği.
 * 🚩 **Liderlik:** Teknofest ve Deneyap projelerinde **Takım Kaptanı** olarak ekip koordinasyonu ve proje yönetimi süreçlerini üstlendim.
-* 🔭 **Şu an:** İleri seviye iOS mimarileri ve kullanıcı deneyimi üzerine çalışıyorum.
+* 🔭 **Şu an:** iOS yazılımları ve kullanıcı deneyimi üzerine çalışıyorum.
 
 ---
 
