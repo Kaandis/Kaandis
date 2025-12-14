@@ -12,7 +12,7 @@
 Yazılım dünyasına **Arduino** , **C** ve **Siber Güvenlik** temelleriyle giriş yaptım, şu anda **Swift & UIKit** teknolojileriyle iOS ekosisteminde modern uygulamalar geliştirmek için kendimi eğitiyorum. Temiz kod yazmayı, sistemin derinliklerini anlamayı ve yarışma kültürüyle proje üretmeyi seviyorum.
 
 * 🏆 **Başarı:** Deneyap Teknoloji Atölyeleri Mezunu & Proje Birinciliği.
-* 💪🏻 **Deneyim:** Teknofest kapsamında proje geliştirme ve yarışma tecrübesi.
+* 🚩 **Liderlik:** Teknofest ve Deneyap projelerinde **Takım Kaptanı** olarak ekip koordinasyonu ve proje yönetimi süreçlerini üstlendim.
 * 💻 **Şu an:** iOS yazılımları ve kullanıcı deneyimi üzerine çalışıyorum.
 
 ### 🛠 Teknik Yetenekler
