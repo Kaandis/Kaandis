@@ -1,16 +1,31 @@
-## Hi there 👋
+<div align="center">
+  <h1>Merhaba, ben [Adın] 👋</h1>
+  <h3>Bilgisayar Mühendisliği @ Gebze Teknik Üniversitesi</h3>
+  <p>
+    <i>iOS Geliştirici Adayı | Deneyap Mezunu | Teknofest Yarışmacısı</i>
+  </p>
+</div>
 
-<!--
-**Kaandis/Kaandis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Hakkımda
+Yazılım dünyasına **C** ve **Siber Güvenlik** temelleriyle giriş yaptım, şu anda **Swift & UIKit** teknolojileriyle iOS ekosisteminde modern uygulamalar geliştiriyorum. Temiz kod yazmayı, sistemin derinliklerini anlamayı ve yarışma kültürüyle proje üretmeyi seviyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🏆 **Başarı:** Deneyap Teknoloji Atölyeleri Mezunu & Proje Birinciliği.
+* 🚁 **Deneyim:** Teknofest kapsamında proje geliştirme ve yarışma tecrübesi.
+* 🔭 **Şu an:** iOS yazılımları ve kullanıcı deneyimi üzerine çalışıyorum.
+
+### 🛠 Teknik Yetenekler
+
+| Alan | Teknolojiler |
+| :--- | :--- |
+| **Mobil Geliştirme** | Swift, UIKit, SwiftUI |
+| **Diller** | C, Python |
+| **Hakim Olduğum Konular** | Siber Güvenlik, Algoritma Analizi |
+
+---
+
+<div align="center">
+  📫 <b>İletişim:</b> <a href="[LINKEDIN_PROFIL_LINKIN](https://www.linkedin.com/in/oğuz-kaan-kandiş-045943380/)">LinkedIn</a>
+<b>Mail: kaandis@hotmail.com</b>
+</div>
