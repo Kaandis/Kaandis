@@ -1,32 +1,55 @@
 <div align="center">
-  <h1>Merhaba, ben Oğuz Kaan Kandiş 👋</h1>
-  <h3>Bilgisayar Mühendisliği @ Gebze Teknik Üniversitesi</h3>
+  <h1>Hi, I'm Oğuz Kaan Kandiş 👋</h1>
+  <h3>Computer Engineering Student @ Gebze Technical University</h3>
+  <p>
+    <i>Aspiring iOS Developer | Deneyap Alumnus | Teknofest Competitor</i>
+  </p>
+</div>
+
+### 🚀 About Me
+I started my software journey with **C** and **Cyber Security** foundations. Currently, I am focusing on developing modern applications in the iOS ecosystem using **Swift & UIKit**. I enjoy writing clean code, understanding system depths, and producing projects with a competitive team spirit.
+
+* 🏆 **Achievement:** Deneyap Technology Workshops Graduate & Project Winner.
+* 🚩 **Leadership:** Served as **Team Captain** in Teknofest and Deneyap projects; managed team coordination and project management processes.
+* 🔭 **Current Focus:** Advanced iOS architectures and user experience (UX).
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<div align="center">
+  <h3>Merhaba, ben Oğuz Kaan Kandiş 👋</h3>
   <p>
     <i>iOS Geliştirici Adayı | Deneyap Mezunu | Teknofest Yarışmacısı</i>
   </p>
 </div>
 
----
-
 ### 🚀 Hakkımda
-Yazılım dünyasına **Arduino** , **C** ve **Siber Güvenlik** temelleriyle giriş yaptım, şu anda **Swift & UIKit** teknolojileriyle iOS ekosisteminde modern uygulamalar geliştirmek için kendimi eğitiyorum. Temiz kod yazmayı, sistemin derinliklerini anlamayı ve yarışma kültürüyle proje üretmeyi seviyorum.
+Yazılım dünyasına **C** ve **Siber Güvenlik** temelleriyle giriş yaptım, şu anda **Swift & UIKit** teknolojileriyle iOS ekosisteminde modern uygulamalar geliştirmek için kendimi eğitiyorum. Temiz kod yazmayı, sistemin derinliklerini anlamayı ve yarışma kültürüyle proje üretmeyi seviyorum.
 
 * 🏆 **Başarı:** Deneyap Teknoloji Atölyeleri Mezunu & Proje Birinciliği.
 * 🚩 **Liderlik:** Teknofest ve Deneyap projelerinde **Takım Kaptanı** olarak ekip koordinasyonu ve proje yönetimi süreçlerini üstlendim.
-* 💻 **Şu an:** iOS yazılımları ve kullanıcı deneyimi üzerine çalışıyorum.
+* 🔭 **Şu an:** İleri seviye iOS mimarileri ve kullanıcı deneyimi üzerine çalışıyorum.
 
-### 🛠 Teknik Yetenekler
+---
 
-| Alan | Teknolojiler |
+### 🛠 Technical Skills / Teknik Yetenekler
+
+| Domain / Alan | Technologies / Teknolojiler |
 | :--- | :--- |
-| **Mobil Geliştirme** | Swift, UIKit, SwiftUI |
-| **Diller** | C, Arduino, Python |
-| **Hakim Olduğum Konular** | Mobil Geliştirme, Arduino, Siber Güvenlik, Algoritma Analizi |
+| **Mobile Development** | Swift, UIKit, SwiftUI |
+| **Languages** | C, Arduino, Python |
+| **Knowledge** | Cyber Security, Algorithm Analysis, Embedded Systems |
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaandis&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs&theme=graywhite" alt="GitHub Stats" />
+</p>
 
 ---
 
 <div align="center">
-  📫 <b>İletişim:</b> 
+  📫 <b>Contact:</b> 
   <a href="https://www.linkedin.com/in/oğuz-kaan-kandiş-045943380/">LinkedIn</a> 
   • 
   <a href="mailto:kaandis@hotmail.com">kaandis@hotmail.com</a>
