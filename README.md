@@ -17,6 +17,7 @@ I started my software journey with **C** and **Cyber Security** foundations. Cur
 
 <div align="center">
   <h3>Merhaba, ben Oğuz Kaan Kandiş 👋</h3>
+  <h4>Bilgisayar Mühendisliği @ Gebze Teknik Üniversitesi</h4>
   <p>
     <i>iOS Geliştirici Adayı | Deneyap Mezunu | Teknofest Yarışmacısı</i>
   </p>
@@ -42,7 +43,7 @@ Yazılım dünyasına **C** ve **Siber Güvenlik** temelleriyle giriş yaptım, 
 ---
 
 <div align="center">
-  📫 <b>Contact:</b> 
+  📫 <b>Contact / İletişim:</b> 
   <a href="https://www.linkedin.com/in/oğuz-kaan-kandiş-045943380/">LinkedIn</a> 
   • 
   <a href="mailto:kaandis@hotmail.com">kaandis@hotmail.com</a>
