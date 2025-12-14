@@ -13,7 +13,7 @@ I started my software journey with **C** and **Cyber Security** foundations. Cur
 * 🚩 **Leadership:** Served as **Team Captain** in Teknofest and Deneyap projects; managed team coordination and project management processes.
 * 🔭 **Current Focus:** Advanced iOS architectures and user experience (UX).
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 <div align="center">
   <h3>Merhaba, ben Oğuz Kaan Kandiş 👋</h3>
@@ -38,13 +38,6 @@ Yazılım dünyasına **C** ve **Siber Güvenlik** temelleriyle giriş yaptım, 
 | **Mobile Development** | Swift, UIKit, SwiftUI |
 | **Languages** | C, Arduino, Python |
 | **Knowledge** | Cyber Security, Algorithm Analysis, Embedded Systems |
-
----
-
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaandis&show_icons=true&hide_title=true&count_private=true&hide=issues,contribs&theme=graywhite" alt="GitHub Stats" />
-</p>
 
 ---
 
