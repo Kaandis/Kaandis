@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Merhaba, ben [Adın] 👋</h1>
+  <h1>Merhaba, ben Oğuz Kaan Kandiş 👋</h1>
   <h3>Bilgisayar Mühendisliği @ Gebze Teknik Üniversitesi</h3>
   <p>
     <i>iOS Geliştirici Adayı | Deneyap Mezunu | Teknofest Yarışmacısı</i>
@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 Hakkımda
-Yazılım dünyasına **C** ve **Siber Güvenlik** temelleriyle giriş yaptım, şu anda **Swift & UIKit** teknolojileriyle iOS ekosisteminde modern uygulamalar geliştiriyorum. Temiz kod yazmayı, sistemin derinliklerini anlamayı ve yarışma kültürüyle proje üretmeyi seviyorum.
+Yazılım dünyasına **C** ve **Siber Güvenlik** temelleriyle giriş yaptım, şu anda **Swift & UIKit** teknolojileriyle iOS ekosisteminde modern uygulamalar geliştirmek için kendimi eğitiyorum. Temiz kod yazmayı, sistemin derinliklerini anlamayı ve yarışma kültürüyle proje üretmeyi seviyorum.
 
 * 🏆 **Başarı:** Deneyap Teknoloji Atölyeleri Mezunu & Proje Birinciliği.
 * 🚁 **Deneyim:** Teknofest kapsamında proje geliştirme ve yarışma tecrübesi.
